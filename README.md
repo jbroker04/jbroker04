@@ -8,7 +8,7 @@ I believe that understanding how the human brain stores and retrieves informatio
 
 ## 📜 Research and Publications
 
-During my graduation, I completed a project on emotion analysis using EEG and EOG signals. I have since published a research paper on this topic, which is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/10498633). This research has deepened my understanding of the relationship between brainwave signals and emotional states.
+During my graduation, I completed a project on emotion analysis using EEG and EOG signals. I have since published a research paper on this topic, which is available on [IEEE Xplore](https://ieeexplore.ieee.org/document/10498633) & Scopus Journal. This research has deepened my understanding of the relationship between brainwave signals and emotional states.
 
 ## 🔧 Hands-on Experience
 
